@@ -1,8 +1,10 @@
 # Atliq-Mart-Supply-Chain-Analysis
 This Project was a part of the Codebasics Resume challenge series.
+Live Report Link: https://www.novypro.com/project/atliq-mart-supply-chain-dashboard-2
 
 ## Tools used
 Data Visualization: Power BI
+
 Database: MS Excel
 
 ## Problem statement
